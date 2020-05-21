@@ -3,8 +3,8 @@ sass:
 
 permalink: /:year/:month/:day/:title.html
 
-url: https://machinelearningcoban.com
-baseurl: ""
+url: thucnt1.github.io
+baseurl: "thucnt1.github.io"
 
 future: true
 debug: false
